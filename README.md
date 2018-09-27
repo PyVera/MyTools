@@ -1,3 +1,3 @@
 # MyTools
-* 生成验证码图片，如 <img src='https://github.com/PyVera/MyTools/blob/master/code.jpg' width=120 height=30/>
-* 判断敏感词、实现敏感词替换
+* My_Captcha: 生成验证码图片，如 <img src='https://github.com/PyVera/MyTools/blob/master/code.jpg' width=120 height=30/>
+* FilterWord: 实现敏感词判断和替换
